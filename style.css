@@ -8,3 +8,12 @@
   border: none;
   box-shadow: none;
 }
+
+.ui.three.column.grid.container a {
+  color: black;
+}
+
+.ui.column .ui.action.input .ui.button {
+  background-color: black;
+  color: white;
+}
